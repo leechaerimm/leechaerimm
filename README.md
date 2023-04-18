@@ -4,6 +4,7 @@ Welcome to my GitHub Profile!
 
 
 I am **Chaerim**, an energetic student working toward B.S. Information Science 👩‍🎓
+Looking for entry Data Analyst/Scientist position 😄
 
 **My values**
 ```
