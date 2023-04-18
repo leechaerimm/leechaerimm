@@ -14,9 +14,6 @@ Looking for entry Data Analyst/Scientist position 😄
 ```
 if you want to learn more about me ... you can visit [My LinkedIn](https://www.linkedin.com/in/chaerim-lee/)
 
-### STAY POSITIVE
-
-
 
 <!--
 **leechaerimm/leechaerimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
