@@ -8,14 +8,11 @@ Looking for entry Data Analyst/Scientist position 😄
 
 **My values**
 ```
- Experienced in Python, C++, MySQL, Excel, R
+ Experienced in Python, C++, MySQL, Excel, R, Tableau, and PowerBI
  Fluent in English and Korean
  
 ```
-if you want to learn more about me
-
-
-[CLICK](https://www.linkedin.com/in/chaerim-lee/)
+if you want to learn more about me ... you can visit [My LinkedIn](https://www.linkedin.com/in/chaerim-lee/)
 
 ### STAY POSITIVE
 
