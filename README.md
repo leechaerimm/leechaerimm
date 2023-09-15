@@ -3,7 +3,7 @@
 Welcome to my GitHub Profile!
 
 
-I am **Chaerim**, an energetic student working toward B.S. Information Science 👩‍🎓
+My name is **Chaerim Lee**, an energetic student working toward B.S. Information Science 👩‍🎓
 Looking for an entry Data Analyst/Scientist position 😄
 
 
