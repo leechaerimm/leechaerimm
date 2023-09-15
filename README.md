@@ -4,12 +4,13 @@ Welcome to my GitHub Profile!
 
 
 I am **Chaerim**, an energetic student working toward B.S. Information Science 👩‍🎓
-Looking for entry Data Analyst/Scientist position 😄
+Looking for an entry Data Analyst/Scientist position 😄
 
 **My values**
 ```
- Experienced in Python, C++, MySQL, Excel, R, Tableau, and PowerBI
- Fluent in English and Korean
+ 🔭 Experienced in Python, C++, MySQL, Excel, R, Tableau, and PowerBI
+ 📫 How to reach me: chaerimlee2664@gmail.com
+ 🌱 I’m experienced in using statistical computer languages (Python) to manipulate data and draw insights from large data sets 
  
 ```
 if you want to learn more about me ... you can visit [My LinkedIn](https://www.linkedin.com/in/chaerim-lee/)
@@ -23,7 +24,7 @@ if you want to learn more about me ... you can visit [My LinkedIn](https://www.l
 - 👯 I’m looking for Data Scientist Internship opportunity
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
