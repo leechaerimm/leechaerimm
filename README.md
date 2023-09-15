@@ -6,7 +6,7 @@ Welcome to my GitHub Profile!
 I am **Chaerim**, an energetic student working toward B.S. Information Science 👩‍🎓
 Looking for an entry Data Analyst/Scientist position 😄
 
-**My values**
+
 ```
  🔭 Experienced in Python, C++, MySQL, Excel, R, Tableau, and PowerBI
  📫 How to reach me: chaerimlee2664@gmail.com
