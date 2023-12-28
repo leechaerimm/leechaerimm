@@ -3,8 +3,8 @@
 Welcome to my GitHub Profile!
 
 
-My name is **Chaerim Lee**, an energetic student working toward B.S. Information Science 👩‍🎓
-Looking for an entry Data Analyst/Scientist position 😄
+My name is **Chaerim Lee**, an energetic college graduate with a Bachelor in Science from the Univeristy of Maryland 👩‍🎓
+Looking for Entry Data Analytics role to cultivate skills and kwowledge.
 
 
 ```
