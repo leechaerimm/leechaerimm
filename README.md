@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Welcome to my GitHub Profile!
+Welcome to my Chaerim's world!
 
 
-My name is **Chaerim Lee**, an energetic college graduate with a Bachelor in Science from the University of Maryland 👩‍🎓
-Looking for Entry Data Analytics role to cultivate skills and knowledge.
+My name is **Chaerim Lee** 👩‍🎓
+
+I'm a data analyst with experience in military recruiting analysis for the JAMRS program. My passion lies in transforming raw, complex datasets into actionable insights through data cleaning, analysis, and visualization. 
 
 
 ```
@@ -13,6 +14,7 @@ Looking for Entry Data Analytics role to cultivate skills and knowledge.
  🌱 I’m experienced in using statistical computer languages (Python) to manipulate data and draw insights from large data sets 
  
 ```
+Let's connect and collaborate! 😄
 if you want to learn more about me ... you can visit [My LinkedIn](https://www.linkedin.com/in/chaerim-lee/)
 
 
