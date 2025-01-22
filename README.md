@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Chaerim's world!
+Welcome to my Github world!
 
 
 My name is **Chaerim Lee** 👩‍🎓
