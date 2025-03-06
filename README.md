@@ -5,7 +5,7 @@ Welcome to my Github world!
 
 My name is **Chaerim Lee** 👩‍🎓
 
-I'm a data analyst with experience in military recruiting analysis for the JAMRS program. My passion lies in transforming raw, complex datasets into actionable insights through data cleaning, analysis, and visualization. 
+I'm a data analyst with experience in military recruiting analysis. My passion lies in transforming raw, complex datasets into actionable insights through data cleaning, analysis, and visualization. 
 
 
 ```
